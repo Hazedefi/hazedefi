@@ -8,4 +8,6 @@ https://app.ebisusbay.com/
 
 https://autofarm.network/cronos/
 
+https://app.beefy.finance/#/cronos
+
 https://www.binance.com/en/trade/BTC_BUSD?layout=basic
